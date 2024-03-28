@@ -1,7 +1,7 @@
 #N;1
 #int+float=float
 
-
+#razmi
 
 mate=12
 
